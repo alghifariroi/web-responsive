@@ -1,5 +1,5 @@
-@media (max-width: 890px){
-	.right, .logo {
+@media (max-width: 778px){
+	.logo {
 		display: none;
 	}
 
@@ -9,6 +9,12 @@
 
 	.created {
 		margin-top: 30px;
+	}
+}
+
+@media (max-width: 576px){
+	.right {
+		display: none;
 	}
 }
 
