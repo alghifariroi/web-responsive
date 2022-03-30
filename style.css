@@ -1,0 +1,28 @@
+@media (max-width: 776px){
+	.right, .logo {
+		display: none;
+	}
+
+	.logo .a-1{
+		width: 100%;
+	}
+
+	.created {
+		margin-top: 30px;
+	}
+}
+
+.logo {
+	width: 90px;
+	height: 70px;	
+}
+
+.a-1 {
+	width: 100%;
+    height: 250px;
+}
+
+.foto {
+	width: 100%;
+	height: 250px;
+}
